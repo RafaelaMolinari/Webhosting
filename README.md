@@ -1,1 +1,2 @@
 # Webhosting
+Projeto de Web Hosting: Desenvolvimento de um sistema de hospedagem web completo, permitindo o gerenciamento e a implantação de sites de forma eficiente. O projeto inclui funcionalidades como configuração de servidores, gerenciamento de domínios, upload de arquivos, suporte a banco de dados e integração com sistemas de segurança. A plataforma foi projetada para oferecer alta disponibilidade, escalabilidade e fácil manutenção, garantindo uma experiência de hospedagem confiável para sites de diversos tamanhos e necessidades. Ideal para pequenos negóc
